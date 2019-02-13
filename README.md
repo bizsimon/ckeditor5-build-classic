@@ -1,3 +1,14 @@
+CKEditor 5 Custom Build
+========================================
+
+This is a custom build of CKEditor 5 based on classic editor build. It is meant to add on plugins that are essential to many CMS builds.
+
+Additional Plugins Inlcuded
+
+* [Font](https://ckeditor.com/docs/ckeditor5/latest/features/font.html)
+* [Alignment](https://ckeditor.com/docs/ckeditor5/latest/features/text-alignment.html)
+
+
 CKEditor 5 classic editor build
 ========================================
 
