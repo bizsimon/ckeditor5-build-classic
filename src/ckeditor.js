@@ -71,6 +71,7 @@ ClassicEditor.defaultConfig = {
 			'heading',
 			'|',
 			'fontSize',
+			'fontColor',
 			'bold',
 			'italic',
 			'link',
